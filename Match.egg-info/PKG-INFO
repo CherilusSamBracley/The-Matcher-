@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: Match
+Version: 0.0.1
+Summary: This module help you check large chains or sequences
+Home-page: UNKNOWN
+Author: Cherilus Sam Bracley
+Author-email: cherilussambracley@gmail.com
+License: MIT
+Description: I created this module in order to help check large chains or sequences which seemed painful to me to do each time like the hashes of sequences when using the cryptography module in python
+        
+        
+        Change Log 
+        """""""""""""""""
+        
+        
+        0.0.1 (31/12/2020)
+        
+        -----------------------
+        
+        -First Release
+        
+Keywords: search
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
