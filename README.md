@@ -79,7 +79,7 @@ The different types of library commands will be displayed on the screen when you
 
 After one use and you still want to use it type    `start`
 
-in the terminal and it will restart it again without you having to manually restart the scriot again if you want to work with it.
+in the terminal and it will restart it again without you having to manually restart the script again if you want to work with it.
        
 Good work!
        
@@ -107,4 +107,4 @@ thank you already for them.
 #### Contact
 | Developer name | Instagram | Linkedln | Email |
 | --------------- | ---------- | -------- | ------- |
-| Sam Bracley Cherilus | progressive_rise | Cherilus Sam Bracley | cherilussambracley@gmail.com |
+| Sam Bracley Cherilus | gradual_rise | Cherilus Sam Bracley | cherilussambracley@gmail.com |
